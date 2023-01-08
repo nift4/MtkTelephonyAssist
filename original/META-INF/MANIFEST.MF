@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: soong_zip
+
+Name: AndroidManifest.xml
+SHA-256-Digest: YXUUDr82ScHkPU+UJYdeGEjSgw9pRwRrczGT2Oc/PX8=
+
+Name: classes.dex
+SHA-256-Digest: TkmLuB6uzFYMw/NC2IXQCmkqlQJOF+VF5uHWapl7srw=
+
+Name: resources.arsc
+SHA-256-Digest: qzlYYPBDow6FjIu6IrDS/eHQrazFKzUOrNC38zJonB0=
+
